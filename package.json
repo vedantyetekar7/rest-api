@@ -1,0 +1,33 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "A rest-api created using node and express.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedantyetekar7/rest-api.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "postman",
+    "rest-api",
+    "curd"
+  ],
+  "author": "Vedant Yetekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedantyetekar7/rest-api/issues"
+  },
+  "homepage": "https://github.com/vedantyetekar7/rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
